@@ -109,14 +109,6 @@ If I had more time, I would:
 - Persist the data to a database instead of using an in-memory solution, allowing the data to persist between server restarts.
 - Enhance the frontend with more features such as editing and deleting superheroes, and improving the layout and design for better user experience.
 
-## Collaboration
-
-In a real-world scenario, I would collaborate with my team by:
-- Reviewing each other's code to ensure quality, maintainability, and performance.
-- Setting up regular meetings to discuss progress and resolve challenges.
-- Breaking down the tasks into smaller chunks and assigning them based on expertise, such as frontend, backend, and testing.
-- Leveraging tools like GitHub Issues and Pull Requests to track bugs and features, ensuring smooth collaboration and version control.
-
 ---
 
 Thank you for checking out this project! Let me know if you have any questions or suggestions for improvement.
