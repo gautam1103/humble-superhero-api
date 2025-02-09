@@ -1,4 +1,3 @@
-```markdown
 # Humble Superhero API
 
 Welcome to the **Humble Superhero API** project! This is a simple application designed to allow users to add superheroes with their names, superpowers, and humility scores, and fetch a list of superheroes sorted by their humility scores.
@@ -31,7 +30,7 @@ At our company, we believe that everyone is a superhero in their own way. This a
    ```bash
    git clone https://github.com/gautam1103/humble-superhero-api.git
    cd humble-superhero-api
-   ```
+
 
 2. Install dependencies:
    ```bash
